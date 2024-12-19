@@ -1,0 +1,8 @@
+// public/locales/ar/common.json
+{
+  "home": "الصفحة الرئيسية",
+  "findJobs": "البحث عن وظائف",
+  "companies": "الشركات",
+  "salaryGuide": "دليل الرواتب",
+  "resources": "الموارد"
+}
